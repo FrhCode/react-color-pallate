@@ -1,6 +1,6 @@
-# React-Roll-Dice
+# React-color-pallate
 
-Rool a dice, Build with React
+random color pallate
 
 ## How to install
 
